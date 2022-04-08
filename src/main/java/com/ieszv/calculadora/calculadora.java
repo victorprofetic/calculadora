@@ -8,6 +8,7 @@ package com.ieszv.calculadora;
 /**
  *
  * @author VICTOR
+ * Proyecto Maven
  */
 public class calculadora {
      public static double sumar(double numero1,double numero2) {

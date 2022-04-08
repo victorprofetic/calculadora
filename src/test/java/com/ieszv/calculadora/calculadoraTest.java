@@ -17,7 +17,7 @@ public class calculadoraTest {
     public calculadoraTest() {
     }
 
-        /**
+    /**
      * Test of sumar method, of class calculadora.
      */
     @Test
